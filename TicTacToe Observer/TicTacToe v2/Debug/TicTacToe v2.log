@@ -1,0 +1,51 @@
+﻿  GameManager.cpp
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(11): error C2259: 'Interface': cannot instantiate abstract class
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\Interface.h(5): message : see declaration of 'Interface'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(11): message : due to following members:
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(11): message : 'void Board::clear_board(void)': is abstract
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\Board.h(8): message : see declaration of 'Board::clear_board'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(11,36): error C2259: 'Interface': cannot instantiate abstract class
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\Interface.h(5): message : see declaration of 'Interface'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(11,36): message : due to following members:
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(11,36): message : 'void Board::clear_board(void)': is abstract
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\Board.h(8): message : see declaration of 'Board::clear_board'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12): error C2259: 'Observer': cannot instantiate abstract class
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\Observer.h(5): message : see declaration of 'Observer'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12): message : due to following members:
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12): message : 'void InterfaceObserver::notify_winner(Player)': is abstract
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\InterfaceObserver.h(8): message : see declaration of 'InterfaceObserver::notify_winner'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12): message : 'void InterfaceObserver::notify_losser(Player)': is abstract
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\InterfaceObserver.h(9): message : see declaration of 'InterfaceObserver::notify_losser'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12,43): error C2259: 'Observer': cannot instantiate abstract class
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\Observer.h(5): message : see declaration of 'Observer'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12,43): message : due to following members:
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12,43): message : 'void InterfaceObserver::notify_winner(Player)': is abstract
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\InterfaceObserver.h(8): message : see declaration of 'InterfaceObserver::notify_winner'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12,43): message : 'void InterfaceObserver::notify_losser(Player)': is abstract
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\InterfaceObserver.h(9): message : see declaration of 'InterfaceObserver::notify_losser'
+  Main.cpp
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(11): error C2259: 'Interface': cannot instantiate abstract class
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\Interface.h(5): message : see declaration of 'Interface'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(11): message : due to following members:
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(11): message : 'void Board::clear_board(void)': is abstract
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\Board.h(8): message : see declaration of 'Board::clear_board'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(11,36): error C2259: 'Interface': cannot instantiate abstract class
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\Interface.h(5): message : see declaration of 'Interface'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(11,36): message : due to following members:
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(11,36): message : 'void Board::clear_board(void)': is abstract
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\Board.h(8): message : see declaration of 'Board::clear_board'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12): error C2259: 'Observer': cannot instantiate abstract class
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\Observer.h(5): message : see declaration of 'Observer'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12): message : due to following members:
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12): message : 'void InterfaceObserver::notify_winner(Player)': is abstract
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\InterfaceObserver.h(8): message : see declaration of 'InterfaceObserver::notify_winner'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12): message : 'void InterfaceObserver::notify_losser(Player)': is abstract
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\InterfaceObserver.h(9): message : see declaration of 'InterfaceObserver::notify_losser'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12,43): error C2259: 'Observer': cannot instantiate abstract class
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\Observer.h(5): message : see declaration of 'Observer'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12,43): message : due to following members:
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12,43): message : 'void InterfaceObserver::notify_winner(Player)': is abstract
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\InterfaceObserver.h(8): message : see declaration of 'InterfaceObserver::notify_winner'
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\GameManager.h(12,43): message : 'void InterfaceObserver::notify_losser(Player)': is abstract
+C:\Kuliah\DEV C++ saves\Semester 4\TicTacToe Observer\TicTacToe v2\InterfaceObserver.h(9): message : see declaration of 'InterfaceObserver::notify_losser'
+  Generating Code...
